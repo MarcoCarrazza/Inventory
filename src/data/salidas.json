@@ -1,0 +1,42 @@
+{
+  "from": "20220101",
+  "to": "20221122",
+  "records": [
+    {
+      "date": "22/11/2022",
+      "PO": "KFF95",
+      "responsable": "Juan Diaz",
+      "product": "212 MEN",
+      "qty": 100,
+      "unit": "unidades",
+      "picture": "https://www.uomax.com.ar/9641-large_default/edt-carolina-herrera-212-men-x-100-ml.jpg"
+    },
+    {
+      "date": "22/11/2022",
+      "PO": "KFF95",
+      "responsable": "Juan Diaz",
+      "product": "One Millon",
+      "qty": 50,
+      "unit": "unidades",
+      "picture": "https://images.fravega.com/f1000/af684a26da5b301e1fcb53f4eeb6d255.jpg"
+    },
+    {
+      "date": "17/11/2022",
+      "PO": "JSS90",
+      "responsable": "Esteban Rodriguez",
+      "product": "AMOR AMOR",
+      "qty": 80,
+      "unit": "unidades",
+      "picture": "https://http2.mlstatic.com/D_NQ_NP_657565-MLA44753933140_012021-O.jpg"
+    },
+    {
+      "date": "16/11/2022",
+      "PO": "HHS55",
+      "responsable": "Fernando Quiroz",
+      "product": "BELLA",
+      "qty": 150,
+      "unit": "unidades",
+      "picture": "https://http2.mlstatic.com/D_NQ_NP_724579-MLA45640729961_042021-O.jpg"
+    }
+  ]
+}

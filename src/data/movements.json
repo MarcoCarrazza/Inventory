@@ -1,0 +1,150 @@
+{
+  "movements": [
+    {
+      "product": "AMERIGE",
+      "sku": "PAMERI",
+      "type": "PT",
+      "qty": 40,
+      "unit": "unidades",
+      "date": "2022-11-17",
+      "person": "Martin Gutierrez",
+      "doc": "FJ-662"
+    },
+    {
+      "product": "Tapa 212 men",
+      "sku": "T212M",
+      "type": "MP",
+      "qty": 100,
+      "unit": "unidades",
+      "date": "2022-11-18",
+      "person": "Martin Gutierrez",
+      "doc": "FH-662"
+    },
+    {
+      "product": "Frasco 212 men",
+      "sku": "T212M",
+      "type": "MP",
+      "qty": 200,
+      "unit": "unidades",
+      "date": "2022-11-18",
+      "person": "Martin Gutierrez",
+      "doc": "FH-662"
+    },
+    {
+      "product": "Fragancia 212 men",
+      "sku": "F212M",
+      "type": "MP",
+      "qty": 50,
+      "unit": "litros",
+      "date": "2022-11-20",
+      "person": "Martin Gutierrez",
+      "doc": "FH-662"
+    },
+    {
+      "product": "212 men",
+      "sku": "P212M",
+      "type": "PT",
+      "qty": 60,
+      "unit": "unidades",
+      "date": "2022-11-21",
+      "person": "Martin Gutierrez",
+      "doc": "FH-662"
+    },
+    {
+      "product": "Tapa AMERIGE",
+      "sku": "TAMER",
+      "type": "MP",
+      "qty": 120,
+      "unit": "unidades",
+      "date": "2022-11-26",
+      "person": "Martin Gutierrez",
+      "doc": "FH-662"
+    }
+  ],
+  "products": [
+    {
+      "product": "212 men",
+      "sku": "P212M",
+      "picture": "https://juleriaque.vteximg.com.br/arquivos/ids/164031-1000-1000/212-men-edt-9CF4D3C7E5E9A6FFF9B4C38428E67D2E.jpg?v=637347496574970000",
+      "unit": "unidades",
+      "materials": [
+        {
+          "sku": "",
+          "product": "Esencia 212 men"
+        },
+        {
+          "sku": "",
+          "product": "Alcohol"
+        },
+        {
+          "sku": "",
+          "product": "Frasco 212 men"
+        },
+        {
+          "sku": "",
+          "product": "Bomba 212 men"
+        },
+        {
+          "sku": "",
+          "product": "Tapa 212 men"
+        }
+      ]
+    },
+    {
+      "product": "AMERIGE",
+      "sku": "PAMERI",
+      "picture": "https://http2.mlstatic.com/D_NQ_NP_650973-MLA51169983892_082022-O.jpg",
+      "unit": "unidades",
+      "materials": [
+        {
+          "sku": "",
+          "product": "Esencia AMERIGE"
+        },
+        {
+          "sku": "",
+          "product": "Alcohol"
+        },
+        {
+          "sku": "",
+          "product": "Frasco AMERIGE"
+        },
+        {
+          "sku": "",
+          "product": "Bomba AMERIGE"
+        },
+        {
+          "sku": "",
+          "product": "Tapa AMERIGE"
+        }
+      ]
+    },
+    {
+      "product": "AMOR AMOR",
+      "sku": "PAMOR",
+      "picture": "https://beautysas.vteximg.com.br/arquivos/ids/168987-1000-1000/Amor-cachare%C3%B1.jpg?v=637472620541800000",
+      "unit": "unidades",
+      "materials": [
+        {
+          "sku": "",
+          "product": "Esencia AMOR AMOR"
+        },
+        {
+          "sku": "",
+          "product": "Alcohol"
+        },
+        {
+          "sku": "",
+          "product": "Frasco AMOR AMOR"
+        },
+        {
+          "sku": "",
+          "product": "Bomba AMOR AMOR"
+        },
+        {
+          "sku": "",
+          "product": "Tapa AMOR AMOR"
+        }
+      ]
+    }
+  ]
+}
